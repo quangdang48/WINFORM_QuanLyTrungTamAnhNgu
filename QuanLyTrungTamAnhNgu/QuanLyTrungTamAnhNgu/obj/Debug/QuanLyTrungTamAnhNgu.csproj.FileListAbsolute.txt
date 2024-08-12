@@ -1,0 +1,827 @@
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ReaLTaiizor.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWin\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\hadan\Downloads\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu_Huong\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\hadan\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThiThu.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu (1)\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemXoaLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemXoaLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLopHocChoHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLopHocChoHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\Doan\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLichThi.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLichThi.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLopHocChoHocVien.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLoaiKhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLoaiKhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LoaiKhoaHoc.resources
+C:\Learn\Ki4\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKeHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLoaiKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLoaiKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLopHocChoHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKeHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LoaiKhoaHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CopyComplete
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Users\nnh26\OneDrive\Máy tính\QuanLyTrungTamAnhNgu_Chinh (1)\QuanLyTrungTamAnhNgu_Chinh\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe.config
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\QuanLyTrungTamAnhNgu.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\FontAwesome.Sharp.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Design.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\MetroFramework.Fonts.dll
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.xml
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.AssemblyReference.cache
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLoaiKhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormMain.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaHocVien.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaKhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChinhSuaLopHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormChonKhoaHocKhiThemLop.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemKhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLichThi.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLoaiKhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThemLopHocChoHocVien.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKe.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormThongKeHocVien.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.FormXemDiemThi.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmCRUHocVien.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmDiemDanh.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLichHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmLogin.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmNhapDiemThi.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThemLopHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.frmThongTinCaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCBlank.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UCDays.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Filter.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_HocVien.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.Properties.Resources.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_Homecs.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_KhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LichThi.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LoaiKhoaHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_LopHoc.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_MenuHV.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.UC_ThanhChucNang.resources
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.GenerateResource.cache
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.csproj.CoreCompileInputs.cache
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTr.1A031838.Up2Date
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.exe
+C:\Learn\Ki4\Winform\final\QuanLyTrungTamAnhNgu\QuanLyTrungTamAnhNgu\obj\Debug\QuanLyTrungTamAnhNgu.pdb

@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{14CB6504-1493-463B-B566-09CE721B577C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyTrungTamAnhNgu</RootNamespace>
+    <AssemblyName>QuanLyTrungTamAnhNgu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>..\..\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>..\..\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>..\..\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ReaLTaiizor">
+      <HintPath>..\ReaLTaiizor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormChinhSuaHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinhSuaHocVien.Designer.cs">
+      <DependentUpon>FormChinhSuaHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChinhSuaKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinhSuaKhoaHoc.Designer.cs">
+      <DependentUpon>FormChinhSuaKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChinhSuaLoaiKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinhSuaLoaiKhoaHoc.Designer.cs">
+      <DependentUpon>FormChinhSuaLoaiKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChinhSuaLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinhSuaLopHoc.Designer.cs">
+      <DependentUpon>FormChinhSuaLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChonKhoaHocKhiThemLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChonKhoaHocKhiThemLop.Designer.cs">
+      <DependentUpon>FormChonKhoaHocKhiThemLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemKhoaHoc.Designer.cs">
+      <DependentUpon>FormThemKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemLichThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemLichThi.Designer.cs">
+      <DependentUpon>FormThemLichThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemLoaiKhoaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemLoaiKhoaHoc.Designer.cs">
+      <DependentUpon>FormThemLoaiKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemLopHocChoHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemLopHocChoHocVien.Designer.cs">
+      <DependentUpon>FormThemLopHocChoHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongKe.Designer.cs">
+      <DependentUpon>FormThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKeHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongKeHocVien.Designer.cs">
+      <DependentUpon>FormThongKeHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormXemDiemThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormXemDiemThi.Designer.cs">
+      <DependentUpon>FormXemDiemThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCRUHocVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRUHocVien.Designer.cs">
+      <DependentUpon>frmCRUHocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiemDanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiemDanh.Designer.cs">
+      <DependentUpon>frmDiemDanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLichHoc.Designer.cs">
+      <DependentUpon>frmLichHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhapDiemThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhapDiemThi.Designer.cs">
+      <DependentUpon>frmNhapDiemThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemLopHoc.Designer.cs">
+      <DependentUpon>frmThemLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTinCaHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTinCaHoc.Designer.cs">
+      <DependentUpon>frmThongTinCaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="Initializer.cs" />
+    <Compile Include="Map\CourseTypeMap.cs" />
+    <Compile Include="Map\LoginMap.cs" />
+    <Compile Include="Model\CourseType.cs" />
+    <Compile Include="Model\Login.cs" />
+    <Compile Include="MonthDatetimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UCBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCBlank.Designer.cs">
+      <DependentUpon>UCBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCDays.Designer.cs">
+      <DependentUpon>UCDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Filter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Filter.Designer.cs">
+      <DependentUpon>UC_Filter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_HocVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_HocVien.Designer.cs">
+      <DependentUpon>UC_HocVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Map\AttendanceMap.cs" />
+    <Compile Include="Map\ClassMap.cs" />
+    <Compile Include="Map\CourseMap.cs" />
+    <Compile Include="Map\ExamScheduleDetailMap.cs" />
+    <Compile Include="Map\ExamScheduleMap.cs" />
+    <Compile Include="Map\LectureMap.cs" />
+    <Compile Include="Map\MarkMap.cs" />
+    <Compile Include="Map\ReceiptMap.cs" />
+    <Compile Include="Map\RegisterMap.cs" />
+    <Compile Include="Map\RoomMap.cs" />
+    <Compile Include="Map\ShiftMap.cs" />
+    <Compile Include="Map\StaffMap.cs" />
+    <Compile Include="Map\StatisticsTableMap.cs" />
+    <Compile Include="Map\StudentMap.cs" />
+    <Compile Include="Map\TimeTableMap.cs" />
+    <Compile Include="Model\Attendance.cs" />
+    <Compile Include="Model\Class.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="Model\Course.cs" />
+    <Compile Include="Model\ExamSchedule.cs" />
+    <Compile Include="Model\ExamScheduleDetail.cs" />
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Lecturer.cs" />
+    <Compile Include="Model\Mark.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Model\Receipt.cs" />
+    <Compile Include="Model\Register.cs" />
+    <Compile Include="Model\Room.cs" />
+    <Compile Include="Model\Shift.cs" />
+    <Compile Include="Model\Staff.cs" />
+    <Compile Include="Model\StatisticsTable.cs" />
+    <Compile Include="Model\Student.cs" />
+    <Compile Include="Model\TimeTable.cs" />
+    <Compile Include="UC_Homecs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Homecs.Designer.cs">
+      <DependentUpon>UC_Homecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_KhoaHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_KhoaHoc.Designer.cs">
+      <DependentUpon>UC_KhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_LichThi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_LichThi.Designer.cs">
+      <DependentUpon>UC_LichThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_LoaiKhoaHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_LoaiKhoaHoc.Designer.cs">
+      <DependentUpon>UC_LoaiKhoaHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_LopHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_LopHoc.Designer.cs">
+      <DependentUpon>UC_LopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_MenuHV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_MenuHV.Designer.cs">
+      <DependentUpon>UC_MenuHV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ThanhChucNang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ThanhChucNang.Designer.cs">
+      <DependentUpon>UC_ThanhChucNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UiModify.cs" />
+    <EmbeddedResource Include="FormChinhSuaLoaiKhoaHoc.resx">
+      <DependentUpon>FormChinhSuaLoaiKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinhSuaHocVien.resx">
+      <DependentUpon>FormChinhSuaHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinhSuaKhoaHoc.resx">
+      <DependentUpon>FormChinhSuaKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinhSuaLopHoc.resx">
+      <DependentUpon>FormChinhSuaLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChonKhoaHocKhiThemLop.resx">
+      <DependentUpon>FormChonKhoaHocKhiThemLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemKhoaHoc.resx">
+      <DependentUpon>FormThemKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemLichThi.resx">
+      <DependentUpon>FormThemLichThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemLoaiKhoaHoc.resx">
+      <DependentUpon>FormThemLoaiKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemLopHocChoHocVien.resx">
+      <DependentUpon>FormThemLopHocChoHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKe.resx">
+      <DependentUpon>FormThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKeHocVien.resx">
+      <DependentUpon>FormThongKeHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormXemDiemThi.resx">
+      <DependentUpon>FormXemDiemThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRUHocVien.resx">
+      <DependentUpon>frmCRUHocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiemDanh.resx">
+      <DependentUpon>frmDiemDanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLichHoc.resx">
+      <DependentUpon>frmLichHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhapDiemThi.resx">
+      <DependentUpon>frmNhapDiemThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemLopHoc.resx">
+      <DependentUpon>frmThemLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinCaHoc.resx">
+      <DependentUpon>frmThongTinCaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCBlank.resx">
+      <DependentUpon>UCBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCDays.resx">
+      <DependentUpon>UCDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Filter.resx">
+      <DependentUpon>UC_Filter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_HocVien.resx">
+      <DependentUpon>UC_HocVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UC_Homecs.resx">
+      <DependentUpon>UC_Homecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_KhoaHoc.resx">
+      <DependentUpon>UC_KhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_LichThi.resx">
+      <DependentUpon>UC_LichThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_LoaiKhoaHoc.resx">
+      <DependentUpon>UC_LoaiKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_LopHoc.resx">
+      <DependentUpon>UC_LopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_MenuHV.resx">
+      <DependentUpon>UC_MenuHV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ThanhChucNang.resx">
+      <DependentUpon>UC_ThanhChucNang.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoardingHouseIllutration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\detailservice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electric_water.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\furniture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\furnituretype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\renter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\room2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roomtype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotation-lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotation-lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wi-fi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-PMP-English-CMYK1-85x58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoAnhNgu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoEnglish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_form_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoomform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoomformpress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hideform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hideformpress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hideformpress1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online-course.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
